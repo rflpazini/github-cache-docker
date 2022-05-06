@@ -1,0 +1,30 @@
+Manifest-Version: 1.0
+Class-Path: libs/micronaut-kotlin-runtime-3.2.2.jar libs/micronaut-http-
+ client-3.4.3.jar libs/micronaut-http-server-netty-3.4.3.jar libs/micron
+ aut-http-netty-3.4.3.jar libs/micronaut-http-server-3.4.3.jar libs/micr
+ onaut-websocket-3.4.3.jar libs/micronaut-http-client-core-3.4.3.jar lib
+ s/micronaut-runtime-3.4.3.jar libs/micronaut-validation-3.4.3.jar libs/
+ micronaut-jackson-databind-3.4.3.jar libs/micronaut-jackson-core-3.4.3.
+ jar libs/micronaut-json-core-3.4.3.jar libs/micronaut-context-3.4.3.jar
+  libs/micronaut-aop-3.4.3.jar libs/micronaut-router-3.4.3.jar libs/micr
+ onaut-http-3.4.3.jar libs/micronaut-buffer-netty-3.4.3.jar libs/microna
+ ut-inject-3.4.3.jar libs/jakarta.annotation-api-2.0.0.jar libs/jackson-
+ datatype-jdk8-2.13.2.jar libs/jackson-datatype-jsr310-2.13.2.jar libs/j
+ ackson-databind-2.13.2.2.jar libs/jackson-annotations-2.13.2.jar libs/j
+ ackson-core-2.13.2.jar libs/jackson-module-kotlin-2.13.2.jar libs/kotli
+ n-reflect-1.6.21.jar libs/kotlin-stdlib-jdk8-1.6.21.jar libs/logback-cl
+ assic-1.2.10.jar libs/javax.annotation-api-1.3.2.jar libs/netty-handler
+ -proxy-4.1.76.Final.jar libs/netty-codec-http2-4.1.76.Final.jar libs/ne
+ tty-codec-http-4.1.76.Final.jar libs/netty-handler-4.1.76.Final.jar lib
+ s/netty-codec-socks-4.1.76.Final.jar libs/netty-codec-4.1.76.Final.jar 
+ libs/netty-transport-4.1.76.Final.jar libs/netty-buffer-4.1.76.Final.ja
+ r libs/micronaut-core-reactive-3.4.3.jar libs/reactor-core-3.4.15.jar l
+ ibs/reactive-streams-1.0.3.jar libs/micronaut-core-3.4.3.jar libs/slf4j
+ -api-1.7.32.jar libs/snakeyaml-1.30.jar libs/validation-api-2.0.1.Final
+ .jar libs/kotlin-stdlib-jdk7-1.6.21.jar libs/kotlin-stdlib-1.6.21.jar l
+ ibs/kotlin-stdlib-common-1.6.21.jar libs/netty-resolver-4.1.76.Final.ja
+ r libs/netty-common-4.1.76.Final.jar libs/annotations-13.0.jar libs/log
+ back-core-1.2.10.jar libs/jakarta.inject-api-2.0.1.jar libs/config-1.4.
+ 2.jar resources/ classes/
+Main-Class: com.example.ApplicationKt
+
